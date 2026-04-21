@@ -1,0 +1,1 @@
+Hello everyone!! This is an initial html practice project for the Odin foundations course.
